@@ -10,6 +10,9 @@
 
 2.2 [Fashion-MNIST]()
 
+### Quiz
+![Certificate](https://github.com/m-bashari-m/sample-DNN-projects/blob/main/certificate_DeepLearning_part1.jfif)
+
 ## Training model using keras callbacks
 
 3.1 [Hoda with TensorBoard]()
