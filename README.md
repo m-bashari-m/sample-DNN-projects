@@ -11,11 +11,17 @@
 2.2 [Fashion-MNIST]()
 
 ### Quiz
-![Certificate](https://github.com/m-bashari-m/sample-DNN-projects/blob/main/certificate_DeepLearning_part1.jfif)
+<img src="https://github.com/m-bashari-m/sample-DNN-projects/blob/main/images/certificate_DeepLearning_part1.jfif"  width="400" height="250" />
 
 ## Training model using keras callbacks
 
 3.1 [Hoda with TensorBoard]()
+
+### TensorBoard images
+<div>
+  <img src="https://github.com/m-bashari-m/sample-DNN-projects/blob/main/images/tensor-board.png"  width="400" height="250" />
+  <img src="https://github.com/m-bashari-m/sample-DNN-projects/blob/main/images/layer-hist.png"  width="400" height="250" />
+</div>
 
 3.2 [Best learning rate on hoda dataset]()
 
