@@ -8,7 +8,7 @@
 
 2.1 [Cifar10](https://nbviewer.org/github/m-bashari-m/sample-DNN-projects/blob/main/2.1_cifar10.ipynb)
 
-2.2 [Fashion-MNIST]()
+2.2 [Fashion-MNIST](https://github.com/m-bashari-m/sample-DNN-projects/blob/main/2.2_FMNIST_with_CNN.ipynb)
 
 ### Quiz
 <img src="https://github.com/m-bashari-m/sample-DNN-projects/blob/main/images/certificate_DeepLearning_part1.jfif"  width="400" height="250" />
